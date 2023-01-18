@@ -1,2 +1,16 @@
 # Pokedex_v2
-Second version of a Pokedex using HTML, CSS, Javascript and the PokeAPI
+Segunda versão da pokedex, fiz para praticar consumo de API.
+
+----
+
+## O Projeto
+Pokedex desenvolvida utilizando HTML, CSS, JavaScript e consumindo a PokeAPI.
+
+----
+
+Tecnologias Usadas
+
+- HTML
+- CSS
+- JavaScript
+- PokeAPI
