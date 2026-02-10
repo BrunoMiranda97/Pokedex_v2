@@ -65,5 +65,4 @@ Improved accessibility
 👨‍💻 Author
 
 Bruno Miranda
-GitHub
- • LinkedIn
+[GitHub](https://github.com/BrunoMiranda97?utm_source=chatgpt.com) • [LinkedIn](https://www.linkedin.com/in/brunomiranda97/)
