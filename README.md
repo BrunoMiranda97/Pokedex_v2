@@ -1,5 +1,5 @@
 # Pokedex v2 🧩
-```md
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
@@ -52,6 +52,7 @@ This project demonstrates practical frontend skills such as API consumption, asy
 git clone https://github.com/BrunoMiranda97/Pokedex_v2.git
 cd Pokedex_v2
 Then open index.html in your browser.
+```
 
 🌱 Future Improvements
 
