@@ -12,7 +12,7 @@ This project demonstrates practical frontend skills such as API consumption, asy
 ---
 
 ## 🚀 Live Demo
-(https://bruno-pokedex-v2.netlify.app/)
+👉 https://bruno-pokedex-v2.netlify.app/
 
 ---
 
